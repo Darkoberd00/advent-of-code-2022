@@ -1,5 +1,5 @@
 # advent-of-code-2021
-### My solution in Java for [Advent of Code 2022](https://adventofcode.com).
+### My solution in C++ for [Advent of Code 2022](https://adventofcode.com).
 ![logo_aoc](https://aplwiki.com/images/0/0d/Advent_Of_Code_Logo.png)
 
 ## What is Advent of Code?
